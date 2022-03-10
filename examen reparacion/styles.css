@@ -1,0 +1,93 @@
+/* use this to put borders around things... */
+body{
+
+	background-image: url('fondo2.jpg');
+	font-family: 'Hubballi', cursive;
+}
+
+.cuadro1{
+	color:yellow;
+	 background-color:#EDBB99 ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 2px white solid;
+
+
+}
+.cuadro2{
+color: yellow;
+	 background-color:#EDBB99 ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 2px white solid;
+
+}
+.cuadro3{
+color:yellow;
+	 background-color:#EDBB99 ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 2px white solid;
+	
+}
+.cuadro4{
+color:yellow;
+	 background-color:#EDBB99 ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 2px white solid;
+	
+}
+.cuadro5{
+	color:yellow;
+	 background-color:#EDBB99 ;
+	 margin: 0px 0px 0px 0px;
+	 padding: 15px 15px 15px 15px;
+	 height: 200px;
+	 width: 130px;
+	 outline: 2px white solid;
+}
+
+
+
+.tamanoletra{
+	font-size: 30
+}
+
+.thin_border{
+	border: 3px yellow solid;
+}
+
+
+.caja{
+	background-color: #154360;
+	margin: 150px 15px 15px 15px;
+	width: 300px;
+	height: 275px;
+	border-color: black;
+	border: 3px solid yellow;
+}
+
+.centrar{
+	margin: -320px 15px 15px 600px;
+	width: 300px;
+	height: 275px;
+}
+
+
+.cuadrito9{
+background-color: lightblue;
+	margin: 150px 15px 15px 500px;
+	width: 350px;
+	height: 300px;
+	border-color: black;
+	border: 3px solid yellow;
+}
